@@ -1,0 +1,37 @@
+input {
+    border: 1px solid black;
+    height: 20px;
+}
+#d {
+   position: absolute;
+   left: 10%;
+   top: 57px;
+}
+#b {
+   position: absolute;
+   left: 10%;
+   top: 90px;
+}
+#o {
+   position: absolute;
+   left: 10%;
+   top: 123px;
+}
+#h {
+   position: absolute;
+   left: 10%;
+   top: 158px;
+}
+#button {
+    position: absolute;
+    left: 30%;
+    top: 90px;
+    border: 2px solid black;
+    height: 25px;
+    text-align: center;
+}
+p {
+    left: 24%;
+    top: 45px;
+    position: relative;
+}
